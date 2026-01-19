@@ -1,11 +1,11 @@
 # CounterFlowPos Lite
 CounterFlowPOS Lite is a standalone Windows 10 or 11 POS &amp; Order management Application, handles Complex Menus, Shift Scheduling &amp; ClockIn/Clockout, Ingredients and Recipe Tracking . Just download the zip installer, register and setup! For a limited time it can be used Free.
 
-# Watch the Videos
-Meet our Product Team - https://youtu.be/4BDYlWn-9iY
-Shift Management - Clockin/ClockOut - https://youtu.be/nREPj9IQ7Zc
-POS and Catalog Management - https://youtu.be/5PCZt2phN64
-CounterFlowPOS Pro - https://youtu.be/Y1permsAPpE
+# Watch the Videos First
+- **Meet our Product Team** - https://youtu.be/4BDYlWn-9iY
+- **Shift Management - Clockin/ClockOut** - https://youtu.be/nREPj9IQ7Zc
+- **POS and Catalog Management** - https://youtu.be/5PCZt2phN64
+- **CounterFlowPOS Pro** - https://youtu.be/Y1permsAPpE
 
 # CounterFlowPOS Lite- Installation Guide
 
