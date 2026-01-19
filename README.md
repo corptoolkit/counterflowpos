@@ -1,8 +1,8 @@
-# counterflowpos
+# CounterFlowPos Lite
 CounterFlowPOS Lite is a standalone Windows 10 or 11 POS &amp; Order management Application, handles Complex Menus, Shift Scheduling &amp; ClockIn/Clockout, Ingredients and Recipe Tracking . Just download the zip installer, register and setup! For a limited time it can be used Free.
 
 
-# CounterFlowPOS - Installation Guide
+# CounterFlowPOS Lite- Installation Guide
 
 ## System Requirements
 
@@ -21,28 +21,28 @@ CounterFlowPOS uses a simple one-click MSI installer that handles all setup auto
 #### Step 1: Run the Installer
 
 1. **Locate the Installer**:
-   - Find the `setup.exe`  file
+   - locate the EULA.md file first and Agree to the End User license Agreement (EULA) first
+   - Only if you agree move forward and Find the `setup.exe`  file
    - This is the installation package
 
-2. **Start Installation**:
+3. **Start Installation**:
    - Double-click the Setup file
    - Windows may prompt for administrator permissions - click "Yes"
 
-3. **Installation Wizard**:
+4. **Installation Wizard**:
    - The installation wizard will appear
    - Click "Next" to begin
-   - Review the license agreement and click "I Agree" (if applicable)
    - Choose installation location (default is recommended)
    - Click "Install"
 
-4. **Automatic Setup**:
+5. **Automatic Setup**:
    - The installer will automatically:
      - Install .NET 8.0 Desktop Runtime (if not already installed)
      - Install CounterFlowPOS application files
      - Create necessary shortcuts
      - Set up application registry entries
 
-5. **Complete Installation**:
+6. **Complete Installation**:
    - Wait for the installation to complete (usually 1-2 minutes)
    - Click "Finish" when done
 
@@ -61,10 +61,8 @@ CounterFlowPOS uses a simple one-click MSI installer that handles all setup auto
 
 #### Step 3: Initial Configuration
 
-1. Accept the End User Licensing Agreement (EULA)
-
+1. Accept the End User Licensing Agreement (EULA) and then Start the application again from windows Start menu.
 2. Goto Counterflowpos.com and register to get the activation key.
-
 3. Double-click the "CounterFlowPOS Lite" menu again to launch the application and use your emailid and the activation key
 4. Double-click the "CounterFlowPOS Lite" menu again
 
@@ -111,7 +109,7 @@ To uninstall CounterFlowPOS:
 
 
 After installation:
-1. Review the **Setup Guide** to configure your business
+1. Review the **Setup Guide** to configure your business. Add the Business Profile, Add staff logins and schedule, Add Product Catalog (Categories, Modifier Groups, Products), Add Ingredients Inventory, Recipes
 2. Read the **User Guide** to learn how to use the application
 3. Set up your employees, products, and business profile
 4. Start using CounterFlowPOS Lite!
